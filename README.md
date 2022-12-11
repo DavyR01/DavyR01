@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davy</h1>
+<h1 align="center">Hi 👋, I'm Davy from Lyon</h1>
 <h3 align="center">Web Developer Full Stack in progress</h3>
 <p> Currently, If you come across this profile and are looking for a web developer for an internship, feel free to contact me via my linkedin link. Thanks </p>
 
