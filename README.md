@@ -1,7 +1,10 @@
 <h1 align="center" style="text-align: center;">Hi 👋, I'm Davy ROBERT from Lyon city in France</h1>
 <h3 align="center" style="text-align: center; font-weight: bold">Web Developer Full Stack in progress</h3>
-<!-- <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=DavyR01&label=PROFILE%20VIEWS&color=blue&style=flat-square&base=1000&abbreviated=true" alt="view counter"/></p> -->
-<!-- ![](https://komarev.com/ghpvc/?username=DavyR01&base=1000&abbreviated=true&label=PROFILE%20VIEWS&color=blue) -->
+
+<!-- <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=DavyR01&label=PROFILE%20VIEWS&color=blue&style=flat-square&base=1000&abbreviated=true" alt="view counter"/></p>
+
+![Profile view](https://komarev.com/ghpvc/?username=DavyR01&base=1000&abbreviated=true&label=PROFILE%20VIEWS&color=blue) -->
+
 </br>
 
 Feel free to visit my <strong><u>Portfolio</u></strong> by clicking below <span style="color: #e67e22; "><strong>`(does'nt work but hosting in progress)`</strong></span> :
@@ -9,16 +12,14 @@ Feel free to visit my <strong><u>Portfolio</u></strong> by clicking below <span 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DavyR01)
 
-<p> Today, if you are a recruiter, come across this profile and are looking for a web developer, feel free to contact me via my <strong>Linkedin </strong>link you'll find <a href="#contact">below</a> to find out more about my profile. 
+<p> Today, if you are a recruiter, come across this profile and are looking for a web developer with skills could match with me, feel free to contact me via my <strong>Linkedin </strong>link you'll find <a href="#contact">below</a> to find out more about my profile. 
 <br/>
 
 <h2 id="contact">✉️ Connect with me :</h2>
 
-<!-- ## Contact : -->
-<!-- ## Socials : -->
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
 
+<!-- <a href="https://linkedin.com/in/davy-robert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davy-robert" height="30" width="40" /></a> -->
 
 We'll talk about the various projects I've been able to carry out to date. </p>
 
@@ -38,212 +39,244 @@ I'm also training to host my different projects on a web server.
   <!-- - I am currently learning on : -->
 
 - I'm used to working on each of my projects using the [**Scrum Agile Method**](https://asana.com/fr/resources/sprint-planning-meeting).
-  The following diagram shows the sprint cycle :
+  The following diagram shows the sprint cycle according to the Devops approach :
   </br></br>
 <div align="center" style="text-align: center;">
   <a href="https://asana.com/fr/resources/sprint-planning-meeting">
     <img src="./assets/scrcum.png" alt="Méthode Scrum">
   </a>
 </div>
-  <!-- [![Méthode Scrum](./assets/scrcum.png)](https://asana.com/fr/resources/sprint-planning-meeting) -->
+<!-- 
+  [![Méthode Scrum](./assets/scrcum.png)](https://asana.com/fr/resources/sprint-planning-meeting) -->
 
-<!-- <a href="https://linkedin.com/in/davy-robert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davy-robert" height="30" width="40" /></a> -->
 
 # ⚒️ Tech Stacks :
 
  <p>Below are the stacks I've already used in some of the projects I've contributed to or performed during my professional career.</p>
 
 ### LANGUAGES :
-   <p style="display: flex; gap: 10px">
-   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" alt="typescript" width="" height="40"/> </a>
-</p>
+   [<img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" style="padding-right:15px;" />](https://developer.mozilla.org/fr/docs/Web/HTML)
+   
+   [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:15px;" />](https://www.w3schools.com/css/)
+
+   [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="padding-right:15px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+   [<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="padding-right:15px;" />](https://www.typescriptlang.org/)
+
+   [<img align="left" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/910px-Logo_C_sharp.svg.png" style="padding-right:15px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+   </br></br>
 
 ### FRONTEND Development :
-   <p style="display:flex; gap:10px">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextJS" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-      <a href="https://www.apollographql.com/docs/react" target="_blank" rel="noreferrer"> <img src="./assets/apollo.png" alt="Apollo Client" width="40" height="40"/> </a>
-      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vitejs" width="40" height="40" /> </a>
 
-   </p>
-      <p><a href="https://angular.fr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/> </a></p>
-  
-   <p style="display: flex; gap: 10px">
-      <!-- <span style="display: flex; flex-direction: column; justify-content: center;">Style & Design =></span> -->
-     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" alt="" width="40" height="40"/> </a>
-     <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer"> <img src="./assets/radix_logo.png" alt="radixUI" width="40" height="40"/> </a>
-  </p>
-
-### BACKEND Development :
-   <p style="display: flex; gap: 10px">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./assets/express-logo.png" alt="express" width="" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   </p>
-   <p style="display: flex; gap: 10px">
-      <a href="https://typegraphql.com/" target="_blank" rel="noreferrer"> <img src="https://typegraphql.com/img/logo.png" alt="TypeGraphQL" width="40" height="40"/> </a>
-      <a href="https://www.apollographql.com/docs/apollo-server" target="_blank" rel="noreferrer"> <img src="./assets/apollo.png" alt="Apollo Server" width="40" height="40"/> </a>
-   </p>
-   <p style="display: flex; gap: 10px">
-      <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="./assets/dotnet-logo.png" alt=".NET" width="40" height="40"/> </a>
-   </p>
-
-### UNITS TESTING :
-   <p style="display: flex; gap: 10px">
-     <a href="https://jestjs.io/fr/" target="_blank" rel="noreferrer"> <img src="./assets/jest.png" alt="Jest" width="40" height="40"/> </a>
-       <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"> <img src="./assets/react testing library logo.webp" alt="React Testing library" width="40" height="40"/> </a>
-     <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="./assets/playwright.png" alt="playwright" width="40" height="40"/> </a></br>
-  </p>
-
-   <p style="display: flex; gap: 10px">
-      <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" alt="Jasmine" width="40" height="40"/> </a>
-      <a href="https://karma-runner.github.io/6.4/index.html" target="_blank" rel="noreferrer"> <img src="https://www.testautomatisierung.org/wp-content/uploads/Karma-Logo.png" alt="Karma" width="40" height="40"/> </a>
-   </p>
-
-### DATABASE :
-   <p style="display: flex; gap: 10px">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-      <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-      <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-   </p>
-
-### API :
-<p style="display: flex; gap: 10px">
-   <a href="https://www.redhat.com/fr/topics/api/what-is-a-rest-api" target="_blank" rel="noreferrer"> <img src="./assets/api-rest.png" alt="API REST" width="" height="40"/> </a>
-   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="./assets/GraphQL logo.png" alt="API GraphQL" width="40" height="40"/> </a>
+<p>
+   <a align="left" href="https://nextjs.org/">
+      <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="NextJS" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://reactjs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://www.apollographql.com/docs/apollo-server#gh-dark-mode-only">
+      <img src="./assets/apollo-black.png" alt="Apollo Server" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://www.apollographql.com/docs/apollo-server#gh-light-mode-only">
+      <img src="./assets/apollo-light.png" alt="Apollo Server" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://vitejs.dev/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
 </p>
 
+[<img align="left" alt="Angular" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" style="padding-right:15px;" />](https://angular.fr/)
+
+</br></br>
+
+
+[<img align="left" alt="Tailwind CSS" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:15px;" />](https://tailwindcss.com/)
+
+[<img align="left" alt="SCSS" width="40px" src="https://pluginicons.craft-cdn.com/scssqTY8srJEesn2VFiUV73mUCyRIZsfXfDj2eOY.svg?1528091210" style="padding-right:15px;" />](https://sass-lang.com/)
+
+[<img align="left" alt="Radix UI" width="40px" src="./assets/radix_logo.png" style="padding-right:15px;" />](https://www.radix-ui.com/)
+
+</br></br>
+
+### BACKEND Development :
+<p>
+   <a align="left" href="https://expressjs.com#gh-dark-mode-only">
+       <img src="./assets/express-dark.png" alt="Express" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://expressjs.com#gh-light-mode-only">
+       <img src="./assets/express-white.png" alt="Express" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+       <img src="./assets/nodejs logo.png" alt="NodeJS" style="width:; height: 50px;">&nbsp;&nbsp;
+   </a>
+</p>
+
+<p>
+   <a align="left" href="https://typegraphql.com/">
+       <img src="https://typegraphql.com/img/logo.png" alt="Apollo Server" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://www.apollographql.com/docs/apollo-server#gh-dark-mode-only">
+       <img src="./assets/apollo-black.png" alt="Apollo Server" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+   <a align="left" href="https://www.apollographql.com/docs/apollo-server#gh-light-mode-only">
+       <img src="./assets/apollo-light.png" alt="Apollo Server" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
+</p>
+
+[<img align="left" alt=".NET" width="40px" src="./assets/dotnet-logo.png" style="padding-right:15px;" />](https://dotnet.microsoft.com/en-us/)
+
+</br></br>
+
+### UNITS TESTING :
+[<img align="left" alt="Jest" width="40px" src="./assets/jest.png" style="padding-right:15px;" />](https://jestjs.io/fr/)
+
+[<img align="left" alt="React Testing Library" width="40px" src="./assets/react testing library logo.webp" style="padding-right:15px;" />](https://testing-library.com/docs/react-testing-library/intro/)
+
+[<img align="left" alt="Playwright" width="40px" src="./assets/playwright.png" style="padding-right:15px;" />](https://playwright.dev/)
+
+</br></br>
+
+[<img align="left" alt="Jasmine" width="40px" src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" style="padding-right:15px;" />](https://jasmine.github.io/)
+
+[<img align="left" alt="Karma" width="40px" src="https://www.testautomatisierung.org/wp-content/uploads/Karma-Logo.png" style="padding-right:15px;" />](https://karma-runner.github.io/6.4/index.html)
+
+</br></br>
+
+### DATABASE :
+[<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:15px;" />](https://www.postgresql.org)
+
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:15px;" />](https://www.mysql.com/fr/)
+
+[<img align="left" alt="SQLite" width="40px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="padding-right:15px;" />](https://www.sqlite.org/)
+
+[<img align="left" alt="Redis" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="padding-right:15px;" />](https://redis.io)
+
+</br></br>
+
+### API :
+[<img align="left" alt="API REST" width="" height='50px' src="./assets/api-rest.png" style="padding-right:15px;" />](https://www.redhat.com/fr/topics/api/what-is-a-rest-api)
+
+[<img align="left" alt="API GraphQL" width="50px" src="./assets/GraphQL logo.png" style="padding-right:15px;" />](https://graphql.org/)
+
+</br></br>
+
 ### TOOLS :
-   <p style="display: flex; gap: 10px">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-   </p>
-   <p style="display: flex; gap: 10px">
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-      <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="./assets/Swagger.png" alt="Swagger" width="40" height="40"/> </a>
-      <a href="https://swagger.io/specification/" target="_blank" rel="noreferrer"> <img src="./assets/openAPI logo.png" alt="OpenAPI" width="40" height="40"/> </a>
-   </p>
+
+[<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:15px;" />](https://git-scm.com/)
+
+[<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:15px;" />](https://www.linux.org/)
+
+</br></br>
+
+[<img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:15px;" />](https://postman.com)
+
+[<img align="left" alt="Swagger" width="40px" src="./assets/Swagger.png" style="padding-right:15px;" />](https://swagger.io/)
+
+[<img align="left" alt="OpenAPI" width="40px" src="./assets/openAPI logo.png" style="padding-right:15px;" />](https://swagger.io/specification/)
+
+</br></br>
 
 ### INFRASTRUCTURES :
-   <p style="display: flex; gap: 10px">
-        <span style="display: flex; flex-direction: column; justify-content: center;">Services =></span><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="./assets/aws logo.jpg" alt="amazon" width="40" height="40"/> </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/> </a>
-   </p>
-   <p style="display: flex; gap: 10px">
-      <span style="display: flex; flex-direction: column; justify-content: center;">Hosting & Deployment =></span> 
-      <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-      <a href="https://docs.github.com/fr/actions" target="_blank" rel="noreferrer"> <img src="./assets/github actions.png" alt="GitHub Actions" width="40" height="40"/> </a>
-      <a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer"> <img src="./assets/gitlab ci-cd.png" alt="GitLab CI/CD" width="40" height="40"/> </a>
-   </p>
+
+[<img align="left" alt="Amazon AWS" width="40px" src="./assets/aws logo.jpg" style="padding-right:15px;" />](https://aws.amazon.com/)
+
+[<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="padding-right:15px;" />](https://www.docker.com/)
+
+[<img align="left" alt="Firebase" width="40px" src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" style="padding-right:15px;" />](https://firebase.google.com/)
+
+</br></br>
+
+[<img align="left" alt="Nginx" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:15px;" />](https://www.nginx.com)
+
+[<img align="left" alt="GitHub Actions" width="40px" src="./assets/github actions.png" style="padding-right:15px;" />](https://docs.github.com/fr/actions)
+
+[<img align="left" alt="GitLab CI/CD" width="40px" src="./assets/gitlab ci-cd.png" style="padding-right:15px;" />](https://docs.gitlab.com/ee/ci/)
+
+</br></br>
 
 ### PROJECT MANAGEMENT :
-   <p style="display: flex; gap: 10px">
-      <a href="https://azure.microsoft.com/fr-fr/products/devops" target="_blank" rel="noreferrer"> <img src="./assets/azure dev ops.png" alt="Azure Dev Ops" width="40" height="40"/> </a>
-      <a href="https://www.atlassian.com/fr/software/jira" target="_blank" rel="noreferrer"> <img src="./assets/Jira_Logo.svg.png" alt="Jira" width="" height="40"/> </a>
-      <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="./assets/trello.png" alt="Trello" width="" height="40"/> </a>
-   </p>
 
+[<img align="left" alt="Azure Dev Ops" width="40px" src="./assets/azure dev ops.png" style="padding-right:15px;" />](https://azure.microsoft.com/fr-fr/products/devops)
+
+[<img align="left" alt="Jira" width="" height="40px" src="./assets/Jira_Logo.svg.png" style="padding-right:15px;" />](https://www.atlassian.com/fr/software/jira)
+
+[<img align="left" alt="Trello" width="" height="40px" src="./assets/trello.png" style="padding-right:15px;" />](https://trello.com/)
+
+</br></br>
 
 ### SOCIAL NETWORKS :
-   <p style="display: flex; gap: 10px">
-     <a href="https://www.microsoft.com/fr-fr/microsoft-teams/log-in" target="_blank" rel="noreferrer"> <img src="./assets/teams.png" alt="Teams" width="40" height="40"/> </a>
-     <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="./assets/slack-logo.avif" alt="Slack" width="40" height="40"/> </a>
-     <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="./assets/Discord-logo.png" alt="Discord" width="40" height="40"/> </a>
-  </p>
+
+[<img align="left" alt="Teams" width="40px" src="./assets/teams.png" style="padding-right:15px;" />](https://www.microsoft.com/fr-fr/microsoft-teams/log-in)
+
+[<img align="left" alt="Slack" width="40px" src="./assets/slack-logo.avif" style="padding-right:15px;" />](https://slack.com/)
+
+[<img align="left" alt="Discord" width="40px" src="./assets/Discord-logo.png" style="padding-right:15px;"/>](https://discord.com/)
+
+</br></br>
 
 ### PATTERNS & ARCHITECTURES :
-   <p style="display: flex; gap: 50px">
-     <a href="https://developer.mozilla.org/fr/docs/Glossary/MVC" target="_blank" rel="noreferrer"> <img src="./assets/mvc.png" alt="MVC" width="" height="40"/> </a>
-     <a href="https://learn.microsoft.com/fr-fr/azure/architecture/patterns/cqrs" target="_blank" rel="noreferrer"> <img src="./assets/cqrs2.jpg" alt="CQRS" width="" height="40"/> </a>
-     <a href="https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/" target="_blank" rel="noreferrer"> <img src="./assets/hexa.png" alt="Hexagonale" width="" height="40"/> </a>
-  </p>
+
+[<img align="left" alt="MVC" width="40" src="./assets/mvc.png" style="padding-right:15px;" />](https://developer.mozilla.org/fr/docs/Glossary/MVC)
+
+[<img align="left" alt="CQRS" width="" height="40px" src="./assets/cqrs2.jpg" style="padding-right:15px;" />](https://learn.microsoft.com/fr-fr/azure/architecture/patterns/cqrs)
+
+[<img align="left" alt="Hexagonale" width="40" src="./assets/hexa.png" style="padding-right:15px;" />](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
+</br></br>
 
 ### UI / UX DESIGN :
-   <p style="display: flex; gap: 10px">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-      <a href="https://zeplin.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb57020242357_62837a608363533242748f28_image05.png" alt="zeplin" width="40" height="40"/> </a> 
-      <a href="https://excalidraw.com/" target="_blank" rel="noreferrer"> <img src="https://refer-production.s3.us-east-2.amazonaws.com/favicon/excalidraw.com/04e9e487-b1b4-4217-ac2f-7c2129fed8ce.jpg" alt="Excalidraw" width="40" height="40"/> </a>
-   </p>
-   <p style="display: flex; gap: 10px">
-      <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.holistics.io/logo-dbdiagram-notext.ico" alt="DbDiagram" width="40" height="40"/> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/-DFf9XL9GD7M/YYBR9-i1ymI/AAAAAAAAAJA/oeJgZPqiAUM0ad43EAk-vjOnrHNihJ3SgCLcBGAsYHQ/s400/Lucidchart-Primary3D-Mark-Default-onClear-np-RGB-128x128.png" alt="LucidChart" width="40" height="40"/> </a>
-   </p></br>
 
+[<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:15px;" />](https://www.figma.com/)
+
+[<img align="left" alt="Zeplin" width="40px" src="https://cdn.prod.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb57020242357_62837a608363533242748f28_image05.png" style="padding-right:15px;" />](https://zeplin.io/)
+
+[<img align="left" alt="Excalidraw" width="40px" src="https://refer-production.s3.us-east-2.amazonaws.com/favicon/excalidraw.com/04e9e487-b1b4-4217-ac2f-7c2129fed8ce.jpg" style="padding-right:15px;" />](https://excalidraw.com/)
+
+</br></br>
+
+[<img align="left" alt="DbDiagram" width="40px" src="https://cdn.holistics.io/logo-dbdiagram-notext.ico" style="padding-right:15px;" />](https://dbdiagram.io/home)
+
+[<img align="left" alt="LucidChart" width="40px" src="https://lh3.googleusercontent.com/-DFf9XL9GD7M/YYBR9-i1ymI/AAAAAAAAAJA/oeJgZPqiAUM0ad43EAk-vjOnrHNihJ3SgCLcBGAsYHQ/s400/Lucidchart-Primary3D-Mark-Default-onClear-np-RGB-128x128.png" style="padding-right:15px;" />](https://www.lucidchart.com)
+
+</br></br></br>
 # 📊 Some Github Statistics :
 
 <p>I would like to point out that I didn't just use github for my whole project, especially in the corporate world. </p>
 <p>But I'm also used to working with Gitlab, Azure Dev Ops or Bitbucket for instance.</p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davyr01&show_icons=true&locale=en&layout=compact" alt="davyr01" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="DavyR01" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davyr01&" alt="davyr01" /></p>
+<!-- Mode LIGHT : -->
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davyr01&show_icons=true&locale=en&layout=compact" alt="davyr01" /></p> -->
 
-[![Davy's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&count_private=true&show_icons=true)](https://github.com/DavyR01)
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&background=09131B&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="DavyR01" />
+</p>
 
-
-
-
-
-
-
-
-
-
+<!-- Mode LIGHT : -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davyr01" alt="davyr01" /></p> -->
 
 
+[![Davy's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/DavyR01)
 
-
-
-
+<!-- Mode LIGHT : -->
+<!-- [![Davy's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&count_private=true&show_icons=true)](https://github.com/DavyR01) -->
 
 
 
-<!-- IDEAS :  -->
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<!-- <a href="https://stackoverflow.com/users/20204743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20204743" height="30" width="40" /></a> -->
-<!-- <a href="https://discord.gg/2655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2655" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/489948993003061259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2655" height="30" width="40" /></a> -->
-
-<!-- ## Hi there 🥷🏻 -->
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- #GH-LIGHT-MODE-ONLY
-
-#GH-DARK-MODE-ONLY
-
-
-### My daily routine :
-
-```mermaid
-   graph TD;
-      Code -- >Eat;
-      Eat -- >Sleep;
-      Sleep -- >Code;
-```
- -->
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavyR01&hide=php)](https://github.com/DavyR01)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davyr01" alt="davyr01" /></a> </p> -->
+
+
+
+
+
+
+
