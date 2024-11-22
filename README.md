@@ -4,15 +4,12 @@
 <!-- ![](https://komarev.com/ghpvc/?username=DavyR01&base=1000&abbreviated=true&label=PROFILE%20VIEWS&color=blue) -->
 </br>
 
-Feel free to visit my <strong><u>Portfolio</u> </strong> by clicking below <span style="color: #e67e22; ">(does'nt work but in progress)</span> :
-</br></br>
-![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() -->
-<span style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
-</span>
+Feel free to visit my <strong><u>Portfolio</u></strong> by clicking below <span style="color: #e67e22; "><strong>`(does'nt work but hosting in progress)`</strong></span> :
+</br>
 
-<p> Today, if you are a recruiter, you come across this profile and are looking for a web developer, feel free to contact me via my <strong><u>Linkedin</u> </strong>link you'll find <a href="#contact">below</a> to find out more about my profile. 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DavyR01)
+
+<p> Today, if you are a recruiter, come across this profile and are looking for a web developer, feel free to contact me via my <strong>Linkedin </strong>link you'll find <a href="#contact">below</a> to find out more about my profile. 
 <br/>
 
 <h2 id="contact">✉️ Connect with me :</h2>
@@ -32,13 +29,11 @@ I'm also training to host my different projects on a web server.
 
 - 💬 Ask me about <span style="color: #22a6b3; ">**NextJS, NodeJS, ReactJS**</span> but also <span style="color: #22a6b3; ">**Angular, .NET / C# or Java / Kotlin** </span> for Android mobile App.
 
-- If you haven't visited my portfolio just at the top, you will find a part of my whole projects below where I've provided some shortcuts. Take a look at them <span style="color: #e67e22; ">(does'nt work but hosting in progress)</span> : </br></br>
-Project 1 〰
-Project 2 〰
-Project 3
-<!-- [Project 1]() 〰
-[Project 2]() 〰
-[Project 3]() -->
+- If you haven't visited my portfolio just at the top, you will find a part of my whole projects below where I've provided some shortcuts. Take a look at them <span style="color: #e67e22; "><strong><u>`(does'nt work but hosting in progress)`</u></strong></span> : </br></br>
+[Project 1](https://github.com/DavyR01) 〰
+[Project 2](https://github.com/DavyR01) 〰
+[Project 3](https://github.com/DavyR01)
+
 
   <!-- - I am currently learning on : -->
 
@@ -60,7 +55,7 @@ Project 3
 
 ### LANGUAGES :
    <p style="display: flex; gap: 10px">
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -68,7 +63,7 @@ Project 3
 </p>
 
 ### FRONTEND Development :
-   <p style="display: flex; gap: 10px">
+   <p style="display:flex; gap:10px">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextJS" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
       <a href="https://www.apollographql.com/docs/react" target="_blank" rel="noreferrer"> <img src="./assets/apollo.png" alt="Apollo Client" width="40" height="40"/> </a>
