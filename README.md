@@ -49,6 +49,26 @@ I'm also training to host my different projects on a web server.
 <!-- 
   [![Méthode Scrum](./assets/scrcum.png)](https://asana.com/fr/resources/sprint-planning-meeting) -->
 
+```mermaid
+graph LR;
+    A[Plan] --> B[Development];
+    B --> C[Build];
+    C --> D[Unit Tests];
+    D --> E[Release];
+    E --> F[Deploy];
+    F --> G[Operate];
+    G --> H[Monitor];
+    H --> A;
+
+    style A fill:#122738,stroke:#333,stroke-width:2px, color:#fff;
+    style B fill:#122738,stroke:#333,stroke-width:2px, color:#fff;
+    style C fill:#122738,stroke:#333,stroke-width:2px, color:#fff;
+    style D fill:#122738,stroke:#333,stroke-width:2px, color:#fff;
+    style E fill:#44b857,stroke:#333,stroke-width:2px, color:#000;
+    style F fill:#44b857,stroke:#333,stroke-width:2px, color:#000;
+    style G fill:#44b857,stroke:#333,stroke-width:2px, color:#000;
+    style H fill:#44b857,stroke:#333,stroke-width:2px, color:#000;
+```
 
 # ⚒️ Tech Stacks :
 
@@ -247,7 +267,7 @@ I'm also training to host my different projects on a web server.
 <p>But I'm also used to working with Gitlab, Azure Dev Ops or Bitbucket for instance.</p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="DavyR01" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=fff" alt="DavyR01" />
 </p>
 
 <!-- Mode LIGHT : -->
@@ -261,22 +281,8 @@ I'm also training to host my different projects on a web server.
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davyr01" alt="davyr01" /></p> -->
 
 
-[![Davy's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/DavyR01)
+[![Davy's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=fff)](https://github.com/DavyR01)
 
 <!-- Mode LIGHT : -->
 <!-- [![Davy's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&count_private=true&show_icons=true)](https://github.com/DavyR01) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
