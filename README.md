@@ -266,22 +266,25 @@ graph LR;
 <p>I would like to point out that I didn't just use github for my whole project, especially in the corporate world. </p>
 <p>But I'm also used to working with Gitlab, Azure Dev Ops or Bitbucket for instance.</p>
 
-# Mon Profil GitHub
+## Language statistics
 
-## Statistiques des Langages
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jean&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=fff&theme=dark" alt="Top Langages Dark" style="display: none;" class="dark-mode" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jean&show_icons=true&locale=en&layout=compact&border_color=2d2d2d" alt="Top Langages Light" style="display: block;" class="light-mode" />
+</p>
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=fff&theme=dark)
+## Series statistics
 
-![Top Langages Light](https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&border_color=2d2d2d)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean&background=09131B&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Streak Stats Dark" style="display: none;" class="dark-mode" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean&border=000000" alt="Streak Stats Light" style="display: block;" class="light-mode" />
+</p>
 
-## Statistiques de la Série
+## Github stattistics
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&background=09131B&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff)
-
-![Streak Stats Light](https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&border=2d2d2d)
-
-## Statistiques GitHub
-
-[![DavyR01's github stats](https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=fff)](https://github.com/DavyR01)
-
-[![DavyR01's github stats Light](https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&border_color=000000)](https://github.com/DavyR01)
+<p align="center">
+    <a href="https://github.com/Jean">
+        <img src="https://github-readme-stats.vercel.app/api?username=Jean&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=fff" alt="Jean's GitHub Stats Dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Jean&show_icons=true&border_color=000000" alt="Jean's GitHub Stats Light" />
+    </a>
+</p>
