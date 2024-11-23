@@ -269,22 +269,33 @@ graph LR;
 ## Language statistics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=fff&theme=dark" alt="Top Langages Dark" style="display: none;" class="dark-mode" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&border_color=2d2d2d" alt="Top Langages Light" style="display: block;" class="light-mode" />
+    <a href="#gh-dark-mode-only">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=fff&theme=dark#gh-dark-mode-only" alt="Top Langages Dark" style="display: none;" class="dark-mode" />
+    </a>
+    <a href="#gh-light-mode-only">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&border_color=2d2d2d" alt="Top Langages Light" style="display: block;" class="light-mode" />
+    </a>
 </p>
 
 ## Series statistics
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&background=09131B&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Streak Stats Dark" style="display: none;" class="dark-mode" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&border=2d2d2d" alt="Streak Stats Light" style="display: block;" class="light-mode" />
+    <a href="#gh-dark-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&background=09131B&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Streak Stats Dark" />
+    </a>
+    <a href="#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&border=2d2d2d" alt="Streak Stats Light" />
+    </a>
 </p>
 
 ## Github statistics
 
 <p align="center">
-    <a href="https://github.com/DavyR01">
+    <a href="#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=fff" alt="DavyR01's GitHub Stats Dark" />
+    </a>
+    <a href="#gh-light-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&border_color=2d2d2d" alt="DavyR01's GitHub Stats Light" />
     </a>
 </p>
+
