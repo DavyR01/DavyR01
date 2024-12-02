@@ -105,12 +105,14 @@ graph LR;
    <a align="left" href="https://vitejs.dev/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
    </a>
+   <a align="left" href="https://webpack.js.org/">
+      <img src="https://grafikart.fr/uploads/icons/webpack.svg" alt="Webpack" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
+   </a>
 </p>
 
 [<img align="left" alt="Angular" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" style="padding-right:15px;" />](https://angular.fr/)
 
 </br></br>
-
 
 [<img align="left" alt="Tailwind CSS" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:15px;" />](https://tailwindcss.com/)
 
