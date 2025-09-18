@@ -7,10 +7,10 @@
 
 </br>
 
-Feel free to visit my <strong><u>Portfolio</u></strong> by clicking below <span style="color: #e67e22; "><strong>`(does'nt work but hosting in progress)`</strong></span> :
+Feel free to visit my <strong><u>Portfolio</u></strong> by clicking below :
 </br>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DavyR01)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.davyrobert.fr/)
 
 <p> Today, if you are a recruiter, come across this profile and are looking for a web developer with skills could match with me, feel free to contact me via my <strong>Linkedin </strong>link you'll find <a href="#contact">below</a> to find out more about my profile. 
 <br/>
@@ -30,11 +30,18 @@ I'm also training to host my different projects on a web server.
 
 - 💬 Ask me about <span style="color: #22a6b3; ">**NextJS, NodeJS, ReactJS**</span> but also <span style="color: #22a6b3; ">**Angular, .NET / C# or Java / Kotlin** </span> for Android mobile App.
 
-- If you haven't visited my portfolio just at the top, you will find a part of my whole projects below where I've provided some shortcuts. Take a look at them <span style="color: #e67e22; "><strong><u>`(does'nt work but hosting in progress)`</u></strong></span> : </br></br>
-[Project 1](https://github.com/DavyR01) 〰
-[Project 2](https://github.com/DavyR01) 〰
-[Project 3](https://github.com/DavyR01)
+- If you haven't visited my portfolio just at the top, you will find a part of my whole deployed projects below where I've provided some shortcuts. Take a look at them : </br></br>
+[Ecosystem](https://www.davyrobert.fr/fr/projects/ecosystem-qvmd) 〰
+[MakeSense](https://www.davyrobert.fr/fr/projects/makesense) 〰
+[WildRent](https://www.davyrobert.fr/fr/projects/wildrent) 〰
+[MyCritJob](https://www.davyrobert.fr/fr/projects/crit-job) 〰
+[Eurowatt-Super7](https://www.davyrobert.fr/fr/projects/eurowatt-super7) 〰
+[Virtual Met Art](https://www.davyrobert.fr/fr/projects/virtual-met-art) 〰
+[France Trivia Quiz](https://www.davyrobert.fr/fr/projects/france-trivia) 〰
+[Blog Project JS](https://www.davyrobert.fr/fr/projects/blog-project-js) 〰
+[Louis Vuitton](https://www.davyrobert.fr/fr/projects/louisvuitton)
 
+Moreover, you will find the corresponding GitHub links on my portfolio.
 
   <!-- - I am currently learning on : -->
 
