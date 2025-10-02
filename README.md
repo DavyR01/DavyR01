@@ -1,5 +1,5 @@
-<h1 align="center" style="text-align: center;">Hi 👋, I'm Davy ROBERT from Lyon city in France</h1>
-<h3 align="center" style="text-align: center; font-weight: bold">Web Developer Full Stack in progress</h3>
+<h1 align="center" style="text-align: center;">Salut 👋, moi c'est Davy ROBERT</h1>
+<h3 align="center" style="text-align: center; font-weight: bold">Concepteur Développeur d'Applications Web & Mobile 🔎</h3>
 
 <!-- <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=DavyR01&label=PROFILE%20VIEWS&color=blue&style=flat-square&base=1000&abbreviated=true" alt="view counter"/></p>
 
@@ -7,30 +7,30 @@
 
 </br>
 
-Feel free to visit my <strong><u>Portfolio</u></strong> by clicking below :
+Venez faire un tour sur mon <strong><u>Portfolio</u></strong> :
 </br>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.davyrobert.fr/)
 
-<p> Today, if you are a recruiter, come across this profile and are looking for a web developer with skills could match with me, feel free to contact me via my <strong>Linkedin </strong>link you'll find <a href="#contact">below</a> to find out more about my profile. 
+<p> Vous recherchez un développeur web ? Si vous êtes un recruteur, que vous naviguez sur ce profil et , n'hésitez pas à me contacter via mon lien <strong>Linkedin </strong>que vous trouverez <a href="#contact">ci-dessous</a> pour en savoir plus sur mon profil. 
 <br/>
 
-<h2 id="contact">✉️ Connect with me :</h2>
+<h2 id="contact">✉️ Contactez-moi :</h2>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
 
 <!-- <a href="https://linkedin.com/in/davy-robert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davy-robert" height="30" width="40" /></a> -->
 
-We'll talk about the various projects I've been able to carry out to date. </p>
+Nous parlerons des divers projets que j'ai pu réaliser à ce jour. </p>
 
 <p>
-I'm currently learning and improving my skills in Continuous Integration and Continuous Delivery to feel more comfortable.
-I'm also training to host my different projects on a web server.
+J'apprends actuellement et j'améliore mes compétences en Intégration Continue et Livraison Continue pour me sentir plus à l'aise.
+Je me forme également pour héberger mes différents projets sur un serveur web.
 </p>
 
-- 💬 Ask me about <span style="color: #22a6b3; ">**NextJS, NodeJS, ReactJS**</span> but also <span style="color: #22a6b3; ">**Angular, .NET / C# or Java / Kotlin** </span> for Android mobile App.
+- 💬 Demandez-moi à propos de <span style="color: #22a6b3; ">**Next.js, Node.js, React**</span> mais aussi <span style="color: #22a6b3; ">**Angular, .NET / C# ou Java / Kotlin** </span> pour les applications mobiles Android.
 
-- If you haven't visited my portfolio just at the top, you will find a part of my whole deployed projects below where I've provided some shortcuts. Take a look at them : </br></br>
+- Si vous n'avez pas visité mon portfolio tout en haut, vous trouverez ci-dessous une partie de tous mes projets déployés où j'ai fourni quelques raccourcis. Jetez-y un œil : </br></br>
 [Ecosystem](https://www.davyrobert.fr/fr/projects/ecosystem-qvmd) 〰
 [MakeSense](https://www.davyrobert.fr/fr/projects/makesense) 〰
 [WildRent](https://www.davyrobert.fr/fr/projects/wildrent) 〰
@@ -41,12 +41,12 @@ I'm also training to host my different projects on a web server.
 [Blog Project JS](https://www.davyrobert.fr/fr/projects/blog-project-js) 〰
 [Louis Vuitton](https://www.davyrobert.fr/fr/projects/louisvuitton)
 
-Moreover, you will find the corresponding GitHub links on my portfolio.
+De plus, vous trouverez les liens GitHub correspondants sur mon portfolio.
 
   <!-- - I am currently learning on : -->
 
-- I'm used to working on each of my projects using the [**Scrum Agile Method**](https://asana.com/fr/resources/sprint-planning-meeting).
-  The following diagram shows the sprint cycle according to the Devops approach :
+- J'ai l'habitude de travailler sur chacun de mes projets en utilisant la [**Méthode Agile Scrum**](https://asana.com/fr/resources/sprint-planning-meeting).
+  Le diagramme suivant montre le cycle de sprint selon l'approche Devops :
   </br></br>
 <div align="center" style="text-align: center;">
   <a href="https://asana.com/fr/resources/sprint-planning-meeting">
@@ -79,9 +79,9 @@ graph LR;
 
 # ⚒️ Tech Stacks :
 
- <p>Below are the stacks I've already used in some of the projects I've contributed to or performed during my professional career.</p>
+ <p>Ci-dessous se trouvent les stacks que j'ai déjà utilisées dans certains des projets auxquels j'ai contribué ou réalisés pendant ma carrière professionnelle.</p>
 
-### LANGUAGES :
+### LANGAGES :
    [<img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" style="padding-right:15px;" />](https://developer.mozilla.org/fr/docs/Web/HTML)
    
    [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="padding-right:15px;" />](https://www.w3schools.com/css/)
@@ -94,7 +94,7 @@ graph LR;
 
    </br></br>
 
-### FRONTEND Development :
+### Développement FRONTEND :
 
 <p>
    <a align="left" href="https://nextjs.org/">
@@ -129,7 +129,7 @@ graph LR;
 
 </br></br>
 
-### BACKEND Development :
+### Développement BACKEND :
 <p>
    <a align="left" href="https://expressjs.com#gh-dark-mode-only">
        <img src="./assets/express-dark.png" alt="Express" style="width:; height: 50px;">&nbsp;&nbsp;&nbsp;
@@ -158,7 +158,7 @@ graph LR;
 
 </br></br>
 
-### UNITS TESTING :
+### TESTS UNITAIRES :
 [<img align="left" alt="Jest" width="40px" src="./assets/jest.png" style="padding-right:15px;" />](https://jestjs.io/fr/)
 
 [<img align="left" alt="React Testing Library" width="40px" src="./assets/react testing library logo.webp" style="padding-right:15px;" />](https://testing-library.com/docs/react-testing-library/intro/)
@@ -173,7 +173,7 @@ graph LR;
 
 </br></br>
 
-### DATABASE :
+### BASE DE DONNÉES :
 [<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:15px;" />](https://www.postgresql.org)
 
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="padding-right:15px;" />](https://www.mysql.com/fr/)
@@ -191,7 +191,7 @@ graph LR;
 
 </br></br>
 
-### TOOLS :
+### OUTILS :
 
 [<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:15px;" />](https://git-scm.com/)
 
@@ -225,7 +225,7 @@ graph LR;
 
 </br></br>
 
-### PROJECT MANAGEMENT :
+### GESTION DE PROJET :
 
 [<img align="left" alt="Azure Dev Ops" width="40px" src="./assets/azure dev ops.png" style="padding-right:15px;" />](https://azure.microsoft.com/fr-fr/products/devops)
 
@@ -235,7 +235,7 @@ graph LR;
 
 </br></br>
 
-### SOCIAL NETWORKS :
+### RÉSEAUX SOCIAUX :
 
 [<img align="left" alt="Teams" width="40px" src="./assets/teams.png" style="padding-right:15px;" />](https://www.microsoft.com/fr-fr/microsoft-teams/log-in)
 
@@ -255,7 +255,7 @@ graph LR;
 
 </br></br>
 
-### UI / UX DESIGN :
+### DESIGN UI / UX :
 
 [<img align="left" alt="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="padding-right:15px;" />](https://www.figma.com/)
 
@@ -270,12 +270,12 @@ graph LR;
 [<img align="left" alt="LucidChart" width="40px" src="https://lh3.googleusercontent.com/-DFf9XL9GD7M/YYBR9-i1ymI/AAAAAAAAAJA/oeJgZPqiAUM0ad43EAk-vjOnrHNihJ3SgCLcBGAsYHQ/s400/Lucidchart-Primary3D-Mark-Default-onClear-np-RGB-128x128.png" style="padding-right:15px;" />](https://www.lucidchart.com)
 
 </br></br></br>
-# 📊 Some Statistics :
+# 📊 Quelques Statistiques :
 
-<p>I would like to point out that I didn't just use github for my whole project, especially in the corporate world. </p>
-<p>But I'm also used to working with Gitlab, Azure Dev Ops or Bitbucket for instance.</p>
+<p>Je tiens à souligner que je n'ai pas seulement utilisé github pour tous mes projets, surtout dans le monde de l'entreprise. </p>
+<p>Mais j'ai aussi l'opportunité de travailler avec Gitlab, Azure Dev Ops ou Bitbucket par exemple.</p>
 
-## Language statistics
+## Statistiques des langages
 
 <p align="center">
     <a href="#gh-dark-mode-only">
@@ -286,7 +286,7 @@ graph LR;
     </a>
 </p>
 
-## Series statistics
+## Statistiques de série
 
 <p align="center">
     <a href="#gh-dark-mode-only">
@@ -297,7 +297,7 @@ graph LR;
     </a>
 </p>
 
-## Github statistics
+## Statistiques Github
 
 <p align="center">
     <a href="#gh-dark-mode-only">
