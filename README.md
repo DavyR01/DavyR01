@@ -1,32 +1,32 @@
 <h1 align="center" style="text-align: left;">Salut 👋, moi c'est Davy ROBERT</h1>
-<h2 align="center" style="text-align: left; font-weight: bold">💻 Concepteur Développeur d'Applications Web & Mobile</h2>
+<h2 align="center" style="text-align: left;"><b>💻 Concepteur Développeur d'Applications Web & Mobile</b></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davyrobert01@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavyR01)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-5ce1e6?style=for-the-badge&logoColor=white)](https://www.davyrobert.fr)
 
-<h2 id="about" style="text-align: left; font-weight: bold">📎 A propos</h2>
+<h2 id="about" style="text-align: left;"><b>📎 A propos</b></h2>
 <ul>
-<li>🎓 <span style="font-weight: bold;">Concepteur Développeur d'Applications</span> (RNCP37873, Niveau 6, +3/4)</li>
-<li>🎓 <span style="font-weight: bold;">Développeur Web et Web mobile</span> (RNCP37873, Niveau 5, +2)</li>
-<li>👉 <span style="font-weight: bold;">Ce que j'apporte</span> : 
+<li>🎓 <b>Concepteur Développeur d'Applications</b> (RNCP37873, Niveau 6, +3/4)</li>
+<li>🎓 <b>Développeur Web et Web mobile</b> (RNCP37873, Niveau 5, +2)</li>
+<li>👉 <b>Ce que j'apporte</b> : 
 
 - La conception d'applications performantes, accessibles et maintenables. 
 - Mon goût prononcé pour l'apprentissage, mon envie de contribuer à des projets qui ont du sens, porteurs de transformations avec une véritable utilité. 
 - Une vision globale et une capacité d'analyse alignées avec les objectifs métiers et avec la cohérence des solutions développées.
 - J'aime aller jusqu'au bout des choses, comprendre et analyser des problématiques, avoir ce sentiment d'accomplissement et faire les choses bien, le tout en prenant soin de m'organiser correctement.</li>
 
-<li>🎯 <span style="font-weight: bold;">Mes objectifs</span> : Animé par une curiosité et une véritable volonté d'apprentissage, de découverte et d'exploration, je souhaite relever de nouveaux défis professionnels et techniques. Je recherche une équipe qui partage la même dynamique et une entreprise aux valeurs fortes, dans laquelle je pourrais pleinement m'investir.</li>
+<li>🎯 <b>Mes objectifs</b> : Animé par une curiosité et une véritable volonté d'apprentissage, de découverte et d'exploration, je souhaite relever de nouveaux défis professionnels et techniques. Je recherche une équipe qui partage la même dynamique et une entreprise aux valeurs fortes, dans laquelle je pourrais pleinement m'investir.</li>
 
-<li>🔎 <span style="font-weight: bold;">En formation continue</span> et en veille régulière sur les dernières technologies notamment sur :</li>
-<h3 align="center" style="text-align: left; font-weight: bold">
+<li>🔎 <b>En formation continue</b> et en veille régulière sur les dernières technologies notamment sur :</li>
+<h3 align="center" style="text-align: left;"><b>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2BF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </h3>
-<li><span style="font-weight: bold">📌 Disponible pour : </span>CDI / CDD / Portage Salarial</li>
+<li><b>📌 Disponible pour :</b> CDI / CDD / Portage Salarial</li>
 </ul>
 
 
@@ -38,7 +38,7 @@
 
 
 
-<h2 style="text-align: left; font-weight: bold">🚀 Liens rapides</h2>
+<h2 style="text-align: left;"><b>🚀 Liens rapides</b></h2>
 
 <ul>
 <li><a href="#parcours">✒️ Parcours et Appétences</a></li>
@@ -62,17 +62,17 @@
 <br/>
 
 
-<h2 id="parcours" style="text-align: left; font-weight: bold">✒️ Parcours et Appétences</h2>
+<h2 id="parcours" style="text-align: left;"><b>✒️ Parcours et Appétences</b></h2>
 
-<p style="font-weight: bold"> Au cours de mon parcours, les opportunités de mes précédentes missions m'ont orienté a occuper un poste en tant que profil full stack. </p>
+<p><b>Au cours de mon parcours, les opportunités de mes précédentes missions m'ont orienté a occuper un poste en tant que profil full stack.</b></p>
 <p style="font-style: italic">Ces expériences m'ont été très enrichissantes et m'ont beaucoup apportées.</p>
 <p style=""> Cependant avec le recul, selon moi, c'est à la fois un avantage mais aussi un inconvénient. </p>
 <p style="font-style: italic">Car pour exceller dans un domaine, Il faut se spécialiser.</p>
 
 <p style="">J'aurais aimé et j'aimerais me spécialiser et m'expertiser davantage, par une mise en application concrète et utile, sur une poignée de stacks front et back telles que :</p>
 <ul>
-  <li><span style="font-weight: bold;">Pour le front : </span><span style="font-weight: bold; color: #00a7ad">Next.JS, React, Tailwind CSS</span></li>
-  <li><span style="font-weight: bold;">Pour le back : </span><span style="font-weight: bold; color: #00a7ad">GraphQL, Node.js, PostgreSQL</span></li>
+  <li><b>Pour le front : </b><span style="color: #00a7ad"><b>Next.JS, React, Tailwind CSS</b></span></li>
+  <li><b>Pour le back : </b><span style="color: #00a7ad"><b>GraphQL, Node.js, PostgreSQL</b></span></li>
 </ul>
 <p style="font-style: italic">L'ensemble accompagné des outils nécessaires à la constructions d'applications modernes à la fois performantes, scalables et maintenables.</p>
 
@@ -301,13 +301,13 @@ Pour me joindre, mes coordonnées sont juste en dessous 👇.
 
 
 
-<h2 id="contact" style="text-align: left; font-weight: bold">✉️ Comment me contacter ❓</h2>
+<h2 id="contact" style="text-align: left;"><b>✉️ Comment me contacter ❓</b></h2>
 
 Intéressé par mon profil ?
 
 
 
-<p style="font-weight: bold"> Je vous donne rendez-vous par message sur mon LinkedIn !</p>
+<p><b>Je vous donne rendez-vous par message sur mon LinkedIn !</b></p>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
