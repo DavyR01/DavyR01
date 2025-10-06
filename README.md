@@ -62,25 +62,28 @@
 <br/>
 
 
-<h2 id="parcours" style="text-align: left;"><b>✒️ Parcours et Appétences</b></h2>
+## ✒️ Parcours et Appétences
 
-<p><b>Au cours de mon parcours, les opportunités de mes précédentes missions m'ont orienté a occuper un poste en tant que profil full stack.</b></p>
-<p style="font-style: italic">Ces expériences m'ont été très enrichissantes et m'ont beaucoup apportées.</p>
-<p style=""> Cependant avec le recul, selon moi, c'est à la fois un avantage mais aussi un inconvénient. </p>
-<p style="font-style: italic">Car pour exceller dans un domaine, Il faut se spécialiser.</p>
+**Au cours de mon parcours, les opportunités de mes précédentes missions m'ont orienté à occuper un poste en tant que profil full stack.**
 
-<p style="">J'aurais aimé et j'aimerais me spécialiser et m'expertiser davantage, par une mise en application concrète et utile, sur une poignée de stacks front et back telles que :</p>
-<ul>
-  <li><b>Pour le front : </b><span style="color: #00a7ad"><b>Next.JS, React, Tailwind CSS</b></span></li>
-  <li><b>Pour le back : </b><span style="color: #00a7ad"><b>GraphQL, Node.js, PostgreSQL</b></span></li>
-</ul>
-<p style="font-style: italic">L'ensemble accompagné des outils nécessaires à la constructions d'applications modernes à la fois performantes, scalables et maintenables.</p>
+*Ces expériences m'ont été très enrichissantes et m'ont beaucoup apporté 👌.*
 
-<p style="font-weight: bold">J'ai une forte appétence également pour la création d'applications mobiles : <span style="font-weight: bold; color: #00a7ad">Java, Kotlin, React Native.</span></p>
+Cependant avec le recul, selon moi, c'est à la fois un avantage 👍  mais aussi un inconvénient 👎.
 
+*Car pour exceller dans un domaine, il faut se spécialiser.*
 
-<p style="font-style: italic">Donc si l'opportunité se présente à moi, je suis réellement preneur ! Faites moi signe.</p>
-<p style="">Constamment en veille avec un réel attrait pour l'apprentissage, je me forme régulièrement en autonomie.</p>
+J'aurais aimé et j'aimerais me spécialiser et m'expertiser davantage, par une mise en application concrète et utile, sur une poignée de stacks telles que :
+
+- **Pour le front :** 🔹 *Next.JS, React, Tailwind CSS* 🔹
+- **Pour le back :** 🔹 *GraphQL, Node.js, PostgreSQL* 🔹
+
+*L'ensemble accompagné des outils nécessaires à la construction d'applications modernes à la fois performantes, scalables et maintenables.*
+
+J'ai une forte appétence également pour la création d'applications mobiles :🔹 *Java, Kotlin, React Native* 🔹
+
+*Donc si l'opportunité se présente à moi, je suis réellement preneur ! Faites-moi signe 👋.*
+
+Constamment en veille avec un réel attrait pour l'apprentissage, je me forme régulièrement en autonomie.
 
 Pour avoir une visibilité sur les projets concernés par ces stacks, c'est <a href="#projects"> 👉 ici 👈</a>.
 
@@ -147,23 +150,23 @@ Pour avoir une visibilité sur les projets concernés par ces stacks, c'est <a h
 
 <h2 id="projects">🚀 Mes Projets mis en avant :</h2>
 
-- 🏢 **[Ecosystem](https://www.davyrobert.fr/fr/projects/ecosystem-qvmd)** - Plateforme de mise en relation entre prestataires et détenteurs de déchets <span style="color: #00a7ad">(Angular, Typescript, .NET, C#)</span>
+- 🏢 **[Ecosystem](https://www.davyrobert.fr/fr/projects/ecosystem-qvmd)** - Plateforme de mise en relation entre prestataires et détenteurs de déchets 🔹 *(Angular, Typescript, .NET, C#)* 🔹
 
-- 🧠 **[MakeSense](https://www.davyrobert.fr/fr/projects/makesense)** - Application de création de prise de décision pour l'association. Le but étant de passer à l'action et de construire une société inclusive et durable <span style="color: #00a7ad">(React, Vite.js, Node.js, MySQL)</span>.
+- 🧠 **[MakeSense](https://www.davyrobert.fr/fr/projects/makesense)** - Application de création de prise de décision pour l'association. Le but étant de passer à l'action et de construire une société inclusive et durable 🔹 *(React, Vite.js, Node.js, MySQL)* 🔹
 
-- 🏠 **[WildRent](https://www.davyrobert.fr/fr/projects/wildrent)** - Platforme de location d'équipements et d'activité outdoors / indoors <span style="color: #00a7ad">(Next.js, Typescript, TailwindCSS, GraphQL)</span>. 
+- 🏠 **[WildRent](https://www.davyrobert.fr/fr/projects/wildrent)** - Platforme de location d'équipements et d'activité outdoors / indoors 🔹 *(Next.js, Typescript, TailwindCSS, GraphQL)* 🔹
 
-- 💼 **[MyCritJob](https://www.davyrobert.fr/fr/projects/crit-job)** - Application mobile de recherche d'emploi et de gestion administrative <span style="color: #00a7ad">(Java, Kotlin)</span>.
+- 💼 **[MyCritJob](https://www.davyrobert.fr/fr/projects/crit-job)** - Application mobile de recherche d'emploi et de gestion administrative 🔹 *(Java, Kotlin)* 🔹
 
-- ⚡ **[Eurowatt-Super7](https://www.davyrobert.fr/fr/projects/eurowatt-super7)** - Solution de gestion énergétique innovante <span style="color: #00a7ad">(PHP, Symfony, PostgreSQL)</span>.
+- ⚡ **[Eurowatt-Super7](https://www.davyrobert.fr/fr/projects/eurowatt-super7)** - Solution de gestion énergétique innovante 🔹 *(PHP, Symfony, PostgreSQL)* 🔹
 
-- 🎨 **[Virtual Met Art](https://www.davyrobert.fr/fr/projects/virtual-met-art)** - Expérience immersive d'art virtuel et métavers <span style="color: #00a7ad">(React, Vite.js, TailwindCSS, REST API)</span>.
+- 🎨 **[Virtual Met Art](https://www.davyrobert.fr/fr/projects/virtual-met-art)** - Expérience immersive d'art virtuel et métavers 🔹 *(React, Vite.js, TailwindCSS, REST API)* 🔹
  
-- 🇫🇷 **[France Trivia Quiz](https://www.davyrobert.fr/fr/projects/france-trivia)** - Jeu de quiz interactif sur la culture française <span style="color: #00a7ad">(Javascript, HTML, CSS)</span>.
+- 🇫🇷 **[France Trivia Quiz](https://www.davyrobert.fr/fr/projects/france-trivia)** - Jeu de quiz interactif sur la culture française 🔹 *(Javascript, HTML, CSS)* 🔹
 
-- 📝 **[Blog Project JS](https://www.davyrobert.fr/fr/projects/blog-project-js)** - Blog moderne de création de post <span style="color: #00a7ad">(Javascript, SCSS, Node.js, WebPack)</span>.
+- 📝 **[Blog Project JS](https://www.davyrobert.fr/fr/projects/blog-project-js)** - Blog moderne de création de post 🔹 *(Javascript, SCSS, Node.js, WebPack)* 🔹
 
-- 👜 **[Louis Vuitton](https://www.davyrobert.fr/fr/projects/louisvuitton)** - Marque de luxe connue pour ses collections haut de gamme <span style="color: #00a7ad">(React, Sharepoint, Webpack)</span>.
+- 👜 **[Louis Vuitton](https://www.davyrobert.fr/fr/projects/louisvuitton)** - Marque de luxe connue pour ses collections haut de gamme 🔹 *(React, Sharepoint, Webpack)* 🔹
 
 
 
@@ -223,11 +226,12 @@ graph LR;
 
 
 
-<h2 id="stats" style="text-align: left; font-weight: bold">📊 Quelques Statistiques :</h2>
+## 📊 **Quelques Statistiques :**
 
 
-<p>Je tiens à souligner que je n'ai pas seulement utilisé <span style="font-weight: bold; color: #00a7ad">Github</span> pour tous mes projets, surtout dans le monde de l'entreprise.</p>
-<p>J'ai aussi eu l'opportunité de travailler avec <span style="font-weight: bold; color: #00a7ad">Gitlab, Azure Dev Ops, Bitbucket</span> par exemple.</p>
+Je tiens à souligner que je n'ai pas seulement utilisé <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat" alt="GitHub" /> pour tous mes projets, surtout dans le monde de l'entreprise.
+
+J'ai aussi eu l'opportunité de travailler avec &nbsp;<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&style=flat" alt="GitLab" /> &nbsp;<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white&style=flat" alt="Azure DevOps" /> &nbsp;<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat" alt="Bitbucket" />
 <p>A titre indicatif, ces chiffres et statistiques ne sont pas exhaustifs. Ils ne reflètent qu'une partie du temps passé sur ces technologies.</p>
 
 ### 📊 Statistiques
@@ -307,7 +311,7 @@ Intéressé par mon profil ?
 
 
 
-<p><b>Je vous donne rendez-vous par message sur mon LinkedIn !</b></p>
+**Je vous donne rendez-vous par message sur mon LinkedIn !**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
