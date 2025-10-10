@@ -1,10 +1,24 @@
-<h1 align="center" style="text-align: left;">Salut 👋, moi c'est Davy ROBERT</h1>
-<h2 align="center" style="text-align: left;"><b>💻 Concepteur Développeur d'Applications Web & Mobile</b></h2>
+# Salut 👋, moi c'est Davy ROBERT
+## 💻 Développeur Full Stack Web & Mobile
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davyrobert01@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavyR01)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-5ce1e6?style=for-the-badge&logoColor=white)](https://www.davyrobert.fr)
+
+<h2 style="text-align: left;"><b>🚀 Liens rapides</b></h2>
+
+<ul>
+<li><a href="#about">🧾 A propos</a></li>
+<li><a href="#parcours">✒️ Parcours et Appétences</a></li>
+<li><a href="#stacks">⚒️ Technos & Outils</a></li>
+<li><a href="#projects">🚀 Mes Projets</a></li>
+<li><a href="#method">🔎 Méthodes & Organisations</a></li>
+<li><a href="#resume">👉 Pour résumer</a></li>
+<li><a href="#contact">✉️ Comment me contacter ❓</a></li>
+</ul>
+
+<!-- <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=DavyR01&label=PROFILE%20VIEWS&color=blue&style=flat-square&base=1000&abbreviated=true" alt="view counter"/></p>
+
+![Profile view](https://komarev.com/ghpvc/?username=DavyR01&base=1000&abbreviated=true&label=PROFILE%20VIEWS&color=blue) -->
+
+---
 
 <h2 id="about" style="text-align: left;"><b>📎 A propos</b></h2>
 <ul>
@@ -19,13 +33,7 @@
 
 <li>🎯 <b>Mes objectifs</b> : Animé par une curiosité et une véritable volonté d'apprentissage, de découverte et d'exploration, je souhaite relever de nouveaux défis professionnels et techniques. Je recherche une équipe qui partage la même dynamique et une entreprise aux valeurs fortes, dans laquelle je pourrais pleinement m'investir.</li>
 
-<li>🔎 <b>En formation continue</b> et en veille régulière sur les dernières technologies notamment sur :</li>
-<h3 align="center" style="text-align: left;"><b>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2BF?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</h3>
+<li>🔎 <b>En formation continue</b> et en veille régulière sur les dernières technologies.
 <li><b>📌 Disponible pour :</b> CDI / CDD / Portage Salarial</li>
 </ul>
 
@@ -36,56 +44,20 @@
 
 
 
+<h2 id="parcours" style="text-align: left;"><b>✒️ Parcours et Appétences</b></h2>
 
 
-<h2 style="text-align: left;"><b>🚀 Liens rapides</b></h2>
+Mon parcours m’a permis d’évoluer sur un large spectre du développement web, me conduisant naturellement vers un profil full stack.
 
-<ul>
-<li><a href="#parcours">✒️ Parcours et Appétences</a></li>
-<li><a href="#stacksPredilection">⚒️ Stacks & Outils de prédilection</a></li>
-<li><a href="#stacksEntreprise">⚒️ Stacks techniques utilisées en entreprise</a></li>
-<li><a href="#projects">🚀 Mes Projets mis en avant</a></li>
-<li><a href="#method">🔎 Méthodes & Organisations</a></li>
-<li><a href="#stats">📊 Quelques Statistiques</a></li>
-<li><a href="#resume">👉 Pour résumer</a></li>
-<li><a href="#contact">✉️ Comment me contacter ❓</a></li>
-</ul>
+Ces expériences se sont révélées très enrichissantes et m’ont permis d’acquérir une vision globale du cycle de vie d’une application 👌.
 
-<!-- <p style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=DavyR01&label=PROFILE%20VIEWS&color=blue&style=flat-square&base=1000&abbreviated=true" alt="view counter"/></p>
+Avec le recul, je considère cette polyvalence comme un véritable atout 👍, car elle m’a permis de comprendre les interactions entre les différentes couches d’un projet du front au back, jusqu’à la mise en production.
 
-![Profile view](https://komarev.com/ghpvc/?username=DavyR01&base=1000&abbreviated=true&label=PROFILE%20VIEWS&color=blue) -->
+Aujourd’hui, mon objectif est de continuer à consolider cette expertise à travers des projets concrets et utiles, en renforçant mes compétences sur l’ensemble des stacks techniques requises.
 
+Toujours en veille technologique, je me forme en continu afin d’évoluer avec les standards du développement moderne.
 
-
-
----
-<br/>
-
-
-## ✒️ Parcours et Appétences
-
-**Au cours de mon parcours, les opportunités de mes précédentes missions m'ont orienté à occuper un poste en tant que profil full stack.**
-
-*Ces expériences m'ont été très enrichissantes et m'ont beaucoup apporté 👌.*
-
-Cependant avec le recul, selon moi, c'est à la fois un avantage 👍  mais aussi un inconvénient 👎.
-
-*Car pour exceller dans un domaine, il faut se spécialiser.*
-
-J'aurais aimé et j'aimerais me spécialiser et m'expertiser davantage, par une mise en application concrète et utile, sur une poignée de stacks telles que :
-
-- **Pour le front :** 🔹 *Next.JS, React, Tailwind CSS* 🔹
-- **Pour le back :** 🔹 *GraphQL, Node.js, PostgreSQL* 🔹
-
-*L'ensemble accompagné des outils nécessaires à la construction d'applications modernes à la fois performantes, scalables et maintenables.*
-
-J'ai une forte appétence également pour la création d'applications mobiles :🔹 *Java, Kotlin, React Native* 🔹
-
-*Donc si l'opportunité se présente à moi, je suis réellement preneur ! Faites-moi signe 👋.*
-
-Constamment en veille avec un réel attrait pour l'apprentissage, je me forme régulièrement en autonomie.
-
-Pour avoir une visibilité sur les projets concernés par ces stacks, c'est <a href="#projects"> 👉 ici 👈</a>.
+Pour découvrir les projets liés à ces expériences, c’est <a href="#projects"> 👉 ici 👈</a>.
 
 
 
@@ -96,59 +68,32 @@ Pour avoir une visibilité sur les projets concernés par ces stacks, c'est <a h
 
 
 
-<h2 id="stacksPredilection" style="text-align: left; font-weight: bold">⚒️ Stacks & Outils de prédilection</h2>
+<h2 id="stacks" style="text-align: left; font-weight: bold">⚒️ Stacks & Outils</h2>
 
- <p>Ci-dessous se trouvent les stacks que j'affectionne tout particulièrement, et que j'ai déjà utilisées dans certains projets auxquels j'ai contribué ou que j'ai réalisés.</p>
+**UI/UX Design** : [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) [![Zeplin](https://img.shields.io/badge/Zeplin-FFD800?style=flat-square&logo=zeplin&logoColor=white)](https://zeplin.io/)
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-<br/>
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
-[![TypeGraphQL](https://img.shields.io/badge/TypeGraphQL-294E80?style=for-the-badge&logo=graphql&logoColor=white)](https://typegraphql.com/)
-<br/>
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![TypeORM](https://img.shields.io/badge/TypeORM-294E80?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io/)
-<br/>
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-<br/>
-<!-- Ajouter "&style=flat" pour rendre le logo plus petit --> 
+**Front-end** : [![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/) [![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.fr/) [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
- Pour une vision d'ensemble, retrouvez l'ensemble de ces projets juste <a href="#projects">ici</a>.
+**Back-end** : [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/) [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 
+**Base de données** : [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
+**API** : [![REST](https://img.shields.io/badge/REST-FF6B6B?style=flat-square&logo=json&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
+
+**Mobile** : [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/) [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)](https://www.java.com/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+**Tests** : [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/) [![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)](https://jasmine.github.io/) [![Karma](https://img.shields.io/badge/Karma-0D9E00?style=flat-square&logo=karma&logoColor=white)](https://karma-runner.github.io/)
+
+**Versioning** : [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://about.gitlab.com/) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/services/devops/) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+
+**Archi & Infra** : [![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) [![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square&logo=microservices&logoColor=white)](https://microservices.io/)
+
+**DevOps** : [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
 
 <br/>
 
 
-
-
-<h2 id="stacksEntreprise" style="text-align: left; font-weight: bold">⚒️ Stacks techniques utilisées en entreprise</h2>
-
- <p>Les technos suivantes sont principalement au coeur des projets auxquels j'ai eu l'opportunité de contribuer jusqu'à présent en entreprise :</p>
-
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.fr/)
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) <br>
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
-
-
- Pour une vision d'ensemble, retrouvez l'ensemble de ces projets juste <a href="#projects">ici</a>.
-
-
-<br/>
-
-
-
-
-
-<h2 id="projects">🚀 Mes Projets mis en avant :</h2>
+ <h2 id="projects">🚀 Mes Projets :</h2>
 
 - 🏢 **[Ecosystem](https://www.davyrobert.fr/fr/projects/ecosystem-qvmd)** - Plateforme de mise en relation entre prestataires et détenteurs de déchets 🔹 *(Angular, Typescript, .NET, C#)* 🔹
 
@@ -218,66 +163,7 @@ graph LR;
 
 
 
-
-
 <br/>
-
-
-
-
-
-## 📊 **Quelques Statistiques :**
-
-
-Je tiens à souligner que je n'ai pas seulement utilisé <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat" alt="GitHub" /> pour tous mes projets, surtout dans le monde de l'entreprise.
-
-J'ai aussi eu l'opportunité de travailler avec &nbsp;<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&style=flat" alt="GitLab" /> &nbsp;<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white&style=flat" alt="Azure DevOps" /> &nbsp;<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat" alt="Bitbucket" />
-<p>A titre indicatif, ces chiffres et statistiques ne sont pas exhaustifs. Ils ne reflètent qu'une partie du temps passé sur ces technologies.</p>
-
-### 📊 Statistiques
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h4>Langages les plus utilisés</h4>
-        <a href="#gh-dark-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&bg_color=09131B&text_color=ffffff&border_color=fff&theme=dark#gh-dark-mode-only" alt="Top Langages Dark" style="display: none;" class="dark-mode" />
-        </a>
-        <a href="#gh-light-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavyR01&show_icons=true&locale=en&layout=compact&border_color=2d2d2d" alt="Top Langages Light" style="display: block;" class="light-mode" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h4>Statistiques GitHub</h4>
-        <a href="#gh-dark-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=fff" alt="DavyR01's GitHub Stats Dark" />
-        </a>
-        <a href="#gh-light-mode-only">
-          <img src="https://github-readme-stats.vercel.app/api?username=DavyR01&show_icons=true&border_color=2d2d2d" alt="DavyR01's GitHub Stats Light" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🔥 Statistiques de série
-
-<p align="center">
-    <a href="#gh-dark-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&background=09131B&ring=3B1F94&fire=FFE500&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff" alt="Streak Stats Dark" />
-    </a>
-    <a href="#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavyR01&border=2d2d2d" alt="Streak Stats Light" />
-    </a>
-</p>
-
-
-
-
-
-<br/>
-
 
 
 
@@ -292,15 +178,7 @@ Examinons dans quelle mesure vos critères sont compatibles avec les miens et pe
 
 <i>Afin d'illustrer les projets que j'ai réalisés ou auxquels j'ai contribué jusqu'à présent, je vous invite à consulter mon <a href="https://www.davyrobert.fr/">Portfolio</a>.</i>
 
-Pour me joindre, mes coordonnées sont juste en dessous 👇.
 </br>
-
-
-
-
-<br/>
-
-
 
 
 
@@ -311,7 +189,7 @@ Intéressé par mon profil ?
 
 
 
-**Je vous donne rendez-vous par message sur mon LinkedIn !**
+**RDV sur mon LinkedIn**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davy-robert)
