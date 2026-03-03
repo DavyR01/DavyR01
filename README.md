@@ -36,15 +36,15 @@ J’interviens aussi bien sur :
 
 ### 🧩 Stack principale (maîtrise opérationnelle)
 - **TypeScript / JavaScript**
+- **Node.js**
 - **React**
 - **Next.js**
-- **Node.js**
 - **API REST & GraphQL**
 - **PostgreSQL / MySQL**
 
-### 🧱 Autres environnements pratiqués (contexte encadré)
-- Angular  
+### 🧱 Autres environnements pratiqués (projets client en entreprise)
 - .NET / C#  
+- Angular  
 - Firebase  
 - Kotlin / Java (Android)
 
